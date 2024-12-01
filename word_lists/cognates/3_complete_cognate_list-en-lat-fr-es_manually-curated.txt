@@ -1,0 +1,105 @@
+face_noun	facies	faciès_noun	haz_noun
+people_noun	populus	peuple_noun	pueblo_noun
+turn_verb	tornare	tourner_verb	tornar_verb
+moment_noun	momentum	moment_noun	momento_noun
+voice_noun	vocem	voix_noun	voz_noun
+place_noun	platea	place_noun	plaza_noun
+pass_verb	passus	passer_verb	pasar_verb	!
+hour_noun	hora	heure_noun	hora_noun
+cry_verb	quiritare	crier_verb	gritar_verb
+sort_noun	sortem	sorte_noun	suerte_noun
+poor_adj	pauper	pauvre_adj	pobre_adj
+suppose_verb	supponere	supposer_verb	suponer_verb
+course_noun	cursus	course_noun	curso_noun
+remember_verb	rememorari	remémorer_verb	rememorar_verb
+table_noun	tabula	table_noun	tabla_noun
+letter_noun	littera	lettre_noun	letra_noun
+part_noun	partem	part_noun	parte_noun
+fact_noun	factum	fait_noun	hecho_noun
+sure_adj	securus	sûr_adj	seguro_adj
+matter_noun	materia	matière_noun	madera_noun
+sense_noun	sensus	sense_noun	sentido_noun	!
+air_noun	aer	air_noun	aire_noun
+question_noun	quaestionem	question_noun	cuestión_noun
+marry_verb	marītāre	marier_verb	maridar_verb
+money_noun	moneta	monnaie_noun	moneda_noun
+move_verb	movere	mouvoir_verb	mover_verb
+minute_noun	minuta	minute_noun	minuto_noun
+idea_noun	idea	idée_noun	idea_noun
+strange_adj	extraneus	étrange_adj	extraño_adj
+large_adj	largus	large_adj	largo_adj
+appear_verb	apparere	appareiller_verb	aparar_verb
+person_noun	persona	personne_noun	persona_noun
+chair_noun	cathedra	chaise_noun	cadera_noun	!
+catch_verb	captare	capter_verb	captar_verb
+silence_noun	silentium	silence_noun	silencio_noun
+case_noun	casus	cas_noun	caso_noun
+expect_verb	expectare/exspectare	expectative_adj	expectar_verb	!
+point_noun	pungo	point_noun	punto_noun
+add_verb	addere	!	añadir_verb
+reason_noun	rationem	raison_noun	razón_noun
+carry_verb	carrum	charger_verb	cargar_verb
+wall_noun	vallum	!	valla_noun
+tone_noun	tonus	ton_noun	tono_noun
+stay_verb	stare	être_verb	estar_verb
+possible_adj	possibilis	possible_adj	posible_adj
+story_noun	historia	histoire_noun	historia_noun
+paper_noun	papyrus	papier_noun	papel_noun
+nature_noun	natura	nature_noun	natura_noun
+human_adj	humanus	humain_adj	humano_adj
+family_noun	familia	famille_noun	familia_noun
+country_noun	contra	contrée_noun	contra_noun	!
+enter_verb	intrare	entrer_verb	entrar_verb
+remain_verb	remanere	remanoir_verb	remanir_verb	!
+continue_verb	continuare	continuer_verb	continuar_verb
+clear_adj	clarus	clair_adj	claro_adj
+different_adj	differentem	différent_adj	diferente_adj
+dinner_noun	dis+ieiuno	dîner_noun	!
+power_noun	potis	pouvoir_noun	poder_noun
+spirit_noun	spiritus	esprit_noun	espíritu_noun
+pay_verb	pacare	payer_verb	pagar_verb
+able_adj	habilem	habile_adj	hábil_adj
+position_noun	positionem	position_noun	posición_noun
+allow_verb	allocare	allouer_verb	alocar_verb
+round_adv	rotundus	rond_adv	redondo_adv	!adj instead?
+silent_adj	silentium	*silence_noun	*silencio_noun	!
+real_adj	res	réel_adj	real_adj
+exclaim_verb	exclamare	exclamer_verb	exclamar !
+conversation_noun	conversationem	conversation_noun	conversación_noun
+pleasure_noun	placere	plaisir_noun	placer_noun
+impossible_adj	impossibilis	impossible_adj	imposible_adj
+order_noun	ordinem	ordre_noun	orden_noun
+save_verb	salvus	sauver_verb	salvar_verb
+repeat_verb	repetere	répéter_verb	repetir_verb
+view_noun	videre	vue_noun	vista_noun
+fine_adj	finis	fin_adj	fino_adj
+uncle_noun	avunculus	oncle_noun	!
+note_noun	notare	note_noun	nota_noun
+subject_noun	subjectum	sujet_noun	sujeto_noun
+receive_verb	recipere	recevoir_verb	recibir_verb
+usual_adj	usus+alis	usuel_adj	usual_adj
+marriage_noun	maritatus	mariage_noun	maridaje_noun
+trouble_noun	turba	troubler_verb	!
+companion_noun	com+panis	compagnon_noun	compañero_noun
+party_noun	partire/partiri	partir_verb	partir_verb	!
+present_adj	praesentem	présent_adj	presente_adj
+beauty_noun	bellus	beauté_noun	belleza_noun
+consider_verb	considerare	considérer_verb	considerar_verb
+presence_noun	praesentia	présence_noun	presencia_noun
+quiet_adj	quies	quiet_adj	quieto_adj
+offer_verb	offerre	offrir_verb	ofrecer_verb
+duty_noun	debitus	!	!
+form_noun	forma	forme_noun	forma_noun
+scene_noun	scaena	scène_noun	escena_noun
+natural_adj	naturalis	naturel_adj	natural_adj
+character_noun	character	caractère_noun	carácter_noun
+effect_noun	effectus	effet_noun	efecto_noun
+pain_noun	poena	peine_noun	pena_noun
+state_noun	status	état_noun	estado_noun
+doubt_noun	dubitare	doute_noun	duda_noun
+change_verb	cambire	changer_verb	cambiar_verb
+age_noun	aetatem	âge_noun	edad_noun
+chance_noun	cadens	chance_noun	cadencia_noun
+servant_noun	servus	servant_noun	siervo_noun
+reply_verb	*replicare	replier_verb	replicar_verb	!
+certain_adj	certus	certain_adj	cierto_adj
