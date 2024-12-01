@@ -6,7 +6,7 @@ Institute from the University of Zurich. Find the abstract at the bottom of this
 
 ### Used data
 The project was conducted using the French, Spanish and English collections of the open-source ELTeC corpus, available
-under: https://github.com/COST-ELTeC/ELTeC
+at: https://github.com/COST-ELTeC/ELTeC
 
 ### Requirements
 The required python libraries and extensions are listed in the requirements.txt file.
@@ -24,7 +24,7 @@ reproducible with the provided scripts.
 
 ### 1 Pre-processing
 Contains 4 scripts used to prepare the data for model training.
-- `save_xml_books_as_txt.py`: Extracts all novels sorted by date from the ELTeC xml files
+- `save_xml_books_as_txt.py`: Extracts all novels sorted by date from the ELTeC XML files
 - `pre_process_corpora.py`: Pre-processing of each file (lemmatization, POS-tagging etc.), preparation for model training
 - `prepare_target_words.py`: Creates word lists necessary for the different experiments
 - `find_etymology.py`: Automatically extracts those English words from a list which contain Latin roots
@@ -44,7 +44,7 @@ Contains 8 scripts for different experiments and analyses.
 - `change_by_pos_with_plot.py`: Finds the mean cosine similarities of parts-of-speech and plots them
 - `cognates_spearman_evaluation.py`: Calculates Spearman correlation between cognates of two languages
 - `compare_en_with_without_latin_origin.py`: Analyzes the measured change of English words with and without Latin origin
-- `find_most_changed.py`: Finds the words with largest/smallest cosine similarity from a word list
+- `find_most_changed.py`: Finds the words with the largest/smallest cosine similarity from a word list
 - `get_example_sentences.py`: Prints random example sentences from both corpora of a language which include the target word(s)
 
 
