@@ -1,0 +1,835 @@
+----------------------------------------
+momento_noun: old
+----------------------------------------
+instante
+minuto
+crisis
+repentina
+segundo
+coyuntura
+ésto
+propicia
+dolorosa
+muda
+----------------------------------------
+momento_noun: new
+----------------------------------------
+instante
+segundo
+oportunidad
+respiro
+revelación
+mudo
+acometida
+volví
+catástrofe
+sacudimiento
+insensatez
+----------------------------------------
+voz_noun: old
+----------------------------------------
+oído
+acento
+eco
+canto
+entonación
+ronca
+sonido
+----------------------------------------
+voz_noun: new
+----------------------------------------
+acento
+oído
+falsete
+ronca
+sollozo
+eco
+timbre
+trueno
+----------------------------------------
+pasar_verb: old
+----------------------------------------
+pasó
+entretener él
+noté
+hacir
+esperasar
+relevar
+transcurrir
+llover
+pasarar
+rondar
+repasar
+----------------------------------------
+pasar_verb: new
+----------------------------------------
+pasó
+vagar
+pasear él
+rondar
+pasar él
+pasábar
+transcurrir
+irer
+viéndolo
+acostar yo
+recapacitar
+volví
+aburrir él
+pasarir
+----------------------------------------
+hora_noun: old
+----------------------------------------
+ocho
+minuto
+segundo
+nueve
+semana
+madrugada
+doce
+casino
+domingo
+mañana
+vigilia
+merienda
+----------------------------------------
+hora_noun: new
+----------------------------------------
+nueve
+ocho
+semana
+madrugada
+caminata
+siesta
+espera
+parada
+anochecido
+romería
+minuto
+sobremesa
+veinticuatro
+viernes
+descanso
+----------------------------------------
+gritar_verb: old
+----------------------------------------
+golpear
+exclamar
+prorrumpeír
+reponer
+preguntar
+preguntó
+repiteír
+----------------------------------------
+gritar_verb: new
+----------------------------------------
+clamar
+chillar
+gritar él
+rugió
+golpear
+bufar
+aporrear
+aturdir
+patear
+aullar
+----------------------------------------
+suerte_noun: old
+----------------------------------------
+rechazo
+desgraciada
+alternativa
+rompimiento
+certeza
+hablilla
+envidioso
+----------------------------------------
+suerte_noun: new
+----------------------------------------
+ceguedad
+probabilidad
+nueva
+aliciente
+corazonada
+índole
+torpeza
+perverso
+ignominia
+reivindicación
+trances
+crianza
+baldón
+éxito
+adversidad
+murria
+----------------------------------------
+parte_noun: old
+----------------------------------------
+invitación
+cabildo
+abundamiento
+conducto
+pesquisa
+cacería
+iniciativa
+hallazgo
+todas
+encarecimiento
+----------------------------------------
+parte_noun: new
+----------------------------------------
+abundamiento
+notabilidad
+resonancia
+contentamiento
+porción
+restante
+publicidad
+ninguna
+----------------------------------------
+seguro_adj: old
+----------------------------------------
+persuadido
+dudo
+desprevenido
+convencido
+conforme
+prevenido
+advierto
+----------------------------------------
+seguro_adj: new
+----------------------------------------
+persuadido
+previsto
+comprometido
+probable
+segurísimo
+prevenido
+cuerdo
+convencido
+desfavorable
+convaleciente
+informado
+----------------------------------------
+aire_noun: old
+----------------------------------------
+alegr
+sonoro
+son
+cantar
+ruiseñor
+retintín
+----------------------------------------
+aire_noun: new
+----------------------------------------
+bocanada
+pulmón
+vaivén
+hedor
+sonámbulo
+panza
+----------------------------------------
+idea_noun: old
+----------------------------------------
+mente
+pensamiento
+imaginación
+peripecia
+aberración
+alucinación
+perturbación
+sensación
+realización
+impotencia
+----------------------------------------
+idea_noun: new
+----------------------------------------
+mente
+cerebro
+pensamiento
+asociación
+aberración
+aniquilamiento
+sentimiento
+desvarío
+absurdo
+contradicción
+lucidez
+trastorno
+hipnotismo
+----------------------------------------
+persona_noun: old
+----------------------------------------
+individuo
+referencia
+obsequio
+desinterés
+hablilla
+puerilidad
+preferencia
+entidad
+amorío
+particularidad
+viviese
+----------------------------------------
+persona_noun: new
+----------------------------------------
+sujeto
+exemplo
+deudor
+procedencia
+distinguida
+tuteo
+afinidad
+decencia
+mediquillo
+calidad
+convecino
+urbanidad
+----------------------------------------
+silencio_noun: old
+----------------------------------------
+meditación
+estupor
+pausa
+soledad
+distracción
+----------------------------------------
+silencio_noun: new
+----------------------------------------
+quietud
+tic-tac
+intervalo
+quejido
+vacío
+recogimiento
+ámbito
+modorra
+tiniebla
+----------------------------------------
+punto_noun: old
+----------------------------------------
+extremo
+inaudita
+turno
+temeraria
+disfraz
+juzgado
+trinchera
+agresor
+patíbulo
+celeridad
+----------------------------------------
+punto_noun: new
+----------------------------------------
+aprieto
+extremo
+consorte
+gresca
+vías
+contraria
+----------------------------------------
+razón_noun: old
+----------------------------------------
+sabia
+cobardía
+rechazo
+suspicacia
+sobrenombre
+temo
+hipótesis
+----------------------------------------
+razón_noun: new
+----------------------------------------
+mentecato
+niñería
+inconveniente
+tesón
+cordura
+resentimiento
+retraimiento
+----------------------------------------
+tono_noun: old
+----------------------------------------
+acento
+ironía
+aplomo
+entonación
+familiaridad
+chanza
+naturalidad
+----------------------------------------
+tono_noun: new
+----------------------------------------
+entonación
+acento
+tonillo
+inflexión
+ironía
+seriedad
+retintín
+incredulidad
+monosílabo
+lenguaje
+----------------------------------------
+estar_verb: old
+----------------------------------------
+liar
+vear
+hablarar
+arrojé
+entré
+socorreír
+duermar
+irer
+----------------------------------------
+estar_verb: new
+----------------------------------------
+aposentar
+estuvimos
+estabar
+hetir
+encontrarer
+irer
+----------------------------------------
+posible_adj: old
+----------------------------------------
+preciso
+fácil
+necesario
+probable
+imposible
+difícil
+forzoso
+indispensable
+advierto
+----------------------------------------
+posible_adj: new
+----------------------------------------
+permitido
+necesario
+censurable
+preciso
+factible
+----------------------------------------
+historia_noun: old
+----------------------------------------
+novela
+drama
+episodio
+tradición
+lector
+página
+pormenor
+relato
+crónica
+narración
+relación
+exactitud
+resumen
+capítulo
+cronista
+tragedia
+----------------------------------------
+historia_noun: new
+----------------------------------------
+episodio
+descripción
+drama
+relato
+leyenda
+edición
+página
+biografía
+descubrimiento
+aforismo
+crónica
+novela
+narración
+comedia
+geografía
+protagonista
+epílogo
+----------------------------------------
+papel_noun: old
+----------------------------------------
+tintero
+contenido
+escrito
+cartera
+billete
+bolsillo
+caja
+sobre
+firma
+velador
+cajita
+pliego
+documento
+cuartilla
+----------------------------------------
+papel_noun: new
+----------------------------------------
+legajo
+sobre
+cofre
+cartera
+tintero
+sello
+cajón
+rollo
+cuaderno
+fajo
+cuartilla
+estraza
+pliego
+papelito
+resma
+cajoncito
+contenido
+----------------------------------------
+familia_noun: old
+----------------------------------------
+pariente
+apellido
+patrimonio
+herencia
+heredera
+título
+escasez
+merecimiento
+subsistencia
+tutela
+mayorazgo
+nacimiento
+domicilio
+----------------------------------------
+familia_noun: new
+----------------------------------------
+hacienda
+pariente
+unión
+ahorro
+penuria
+prostituta
+manutención
+rango
+paria
+apartamiento
+casada
+convecino
+mayorazgo
+enlace
+tablanqués
+----------------------------------------
+entrar_verb: old
+----------------------------------------
+colar
+relevar
+anunciar él
+salir
+entrar él
+----------------------------------------
+entrar_verb: new
+----------------------------------------
+metio él
+penetrar
+entrósir
+vistierar
+desayunar él
+llegar él
+abriesir
+inspeccionar
+----------------------------------------
+continuar_verb: old
+----------------------------------------
+proseguir
+anudar
+interrumpir
+animar él
+calmar él
+conferenciar
+interrumpir él
+turbó
+pasó
+reponer él
+----------------------------------------
+continuar_verb: new
+----------------------------------------
+reanudar
+prolongar
+char él
+seguir
+volvía
+dejándolar
+hilvanar
+alertar
+inmutar él
+----------------------------------------
+espíritu_noun: old
+----------------------------------------
+fluido
+inacción
+pequeñez
+impotencia
+tedio
+tribulación
+facultad
+goz
+atracción
+tendencia
+germen
+tortura
+excitación
+seducción
+piélago
+----------------------------------------
+espíritu_noun: new
+----------------------------------------
+tensión
+facultad
+sensibilidad
+germen
+goce
+estímulo
+insensibilidad
+desfallecimiento
+propensión
+mengua
+bienestar
+----------------------------------------
+orden_noun: old
+----------------------------------------
+concilio
+sesión
+ofrecimiento
+invasión
+mediación
+bula
+representante
+conspiración
+custodia
+inquisidor
+----------------------------------------
+orden_noun: new
+----------------------------------------
+veterinario
+órden
+ofendido
+autorización
+contingente
+ordenanza
+arbitrio
+asistencia
+negociación
+consentimiento
+requisito
+autoridad
+----------------------------------------
+repetir_verb: old
+----------------------------------------
+repiteír
+acudí
+contestar
+repetir él
+tartamudear
+blasfemar
+proseguir
+balbucear
+interrumpir él
+pronunciar
+proferir
+----------------------------------------
+repetir_verb: new
+----------------------------------------
+recitar
+profeer
+recalcar
+balbucear
+interrumpir
+articular
+caerás
+----------------------------------------
+vista_noun: old
+----------------------------------------
+escrutadora
+derredor
+desconcierto
+panorama
+ojo
+risueño
+caminante
+----------------------------------------
+vista_noun: new
+----------------------------------------
+observatorio
+espionaje
+perdía
+panorama
+espectador
+mediquillo
+transeunt
+temeroso
+----------------------------------------
+recibir_verb: old
+----------------------------------------
+enviar
+otorgar
+comunicar él
+encargar él
+prodigar él
+felicitar él
+obtener
+demandar
+----------------------------------------
+recibir_verb: new
+----------------------------------------
+reiterar
+remitir
+anunciar él
+asistiesir
+diole
+despedir
+enviar
+pedir él
+ponderar él
+devolver
+prevenir él
+----------------------------------------
+presencia_noun: old
+----------------------------------------
+ánimo
+pronóstico
+mejoría
+embarazo
+disculpa
+interlocutora
+acometida
+acusador
+----------------------------------------
+presencia_noun: new
+----------------------------------------
+aproximación
+fuero
+cuita
+apasionamiento
+exhortación
+regaño
+impudor
+decepción
+espionaje
+suspicacia
+inspección
+adorador
+desagrado
+trastorno
+----------------------------------------
+ofrecer_verb: old
+----------------------------------------
+ofrecer él
+proporcionar
+presentar
+otorgar él
+asociar
+prodigar
+proporcionar él
+regaler
+disfrutar
+restituir
+conceder
+privar él
+brindar
+ofrecer yo
+prestir
+----------------------------------------
+ofrecer_verb: new
+----------------------------------------
+ofrecer él
+proporcionar
+facilitar
+hiciesar
+pusierar
+deparar
+rehusar
+presentar
+servirir
+aburriar
+----------------------------------------
+efecto_noun: old
+----------------------------------------
+precedente
+desconcierto
+impresión
+incomodidad
+particularidad
+relato
+brutalidad
+dolorosa
+indicación
+desasosiego
+hilaridad
+----------------------------------------
+efecto_noun: new
+----------------------------------------
+mella
+sainete
+azoramiento
+envenenamiento
+fascinación
+contusión
+aprieto
+irritación
+vagamente
+perplejidad
+confirmación
+desconcierto
+----------------------------------------
+estado_noun: old
+----------------------------------------
+situación
+dolencia
+enfermedad
+convalecencia
+insensibilidad
+circunstancia
+mella
+----------------------------------------
+estado_noun: new
+----------------------------------------
+excitación
+absoluto
+alumbramiento
+curación
+imbecilidad
+histerismo
+postración
+funesta
+contratiempo
+breve
+emulación
+dolencia
+perturbación
+----------------------------------------
+duda_noun: old
+----------------------------------------
+embargo
+vacilar
+tacha
+demora
+ninguna
+reparo
+fundamento
+incertidumbre
+----------------------------------------
+duda_noun: new
+----------------------------------------
+embargo
+vacilar
+tino
+tropiezo
+sospecha
+tardanza
+porqué
+ambages
+certidumbre
+sainete
